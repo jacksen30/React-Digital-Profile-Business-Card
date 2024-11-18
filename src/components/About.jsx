@@ -2,7 +2,7 @@ function About() {
     return (
         <div className="section">
             <h2>About</h2>
-            <p className="text--paragraph">I am a frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.</p>
+            <p className="text--paragraph">I'm a Front-End Developer with a passion for delivering clean, modular, and scalable code for exceptional user experiences. I enjoy not only creating visually appealing websites but also building web applications that solve real-world problems.</p>
         </div>
     )
 }

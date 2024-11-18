@@ -1,4 +1,4 @@
-import headshot from "../assets/images/headshot.png"
+import headshot from "../assets/images/me.jpg"
 import linkedinInfo from "../assets/icons/linkedinInfo.png"
 import email from "../assets/icons/mail.png"
 
